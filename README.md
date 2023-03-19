@@ -13,4 +13,4 @@ Simple dice mobile app using flutter
 
 ## About project
 
-![Alt text](/assets/about.png?raw=true "About")
+![Alt text](/assets/images/about.png?raw=true "About")
